@@ -1,0 +1,22 @@
+body {
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height: 100%
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Slabo 27px', serif;
+	animation: 1s;
+}
+
+.content {
+	align-content: center;
+	margin: 0 auto;
+	margin-top: 20px; 
+	font-family: 'Slabo 27px', serif;
+	width: 60%;
+	a
+}
+
+.content h1, h2, h3, h4, h5, h6 {
+	font-family: 'Roboto', sans-serif;
+}
